@@ -63,5 +63,11 @@ singleQuote: true
 
 add prettier in eslint config file, plugins section
 
+add import in extends
+"plugin:import/typescript",
+
 add prettier config in extends
 plugin:prettier/recommended
+
+in plugins array, add this
+"import"

@@ -12,4 +12,4 @@ Now you have a project ready to be worked on.
 
 - open your package.json, there you will find start script, which will be like npx react-native start, change it to - `npx react-native start --reset-cache`
 - Now run on the root of your project, - `npm start`
-- once the metro has started press "a" to run the app on android, it will open android emulator automatically, or if you have connected you physical mobile device it will run the app on that.
+- once the metro has started press "a" to run the app on android, it will open android emulator automatically, or if you have connected your physical mobile device, it will run the app on that.
